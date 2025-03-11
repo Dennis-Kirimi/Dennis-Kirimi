@@ -1,13 +1,14 @@
 Hey there! 👋 I'm Dennis Kirimi
 
-Welcome to my GitHub corner! I'm a data analyst and an actuarial science graduate, passionate about turning raw data into actionable insights.
+Welcome to my GitHub corner! 
+I'm a data analyst and an actuarial science graduate, passionate about turning raw data into actionable insights.
 I love working with numbers, uncovering patterns, and transforming data into meaningful stories.
 
-🚀 About Me
+🚀 About Me:
 
 🎓 Background: Actuarial Science & Data Analytics
 
-💡 Current Focus: SQL, Python, and Machine Learning
+💡 Current Focus: SQL, Python, and Excel
 
 📊 Interests: Data visualization, predictive modeling, and business intelligence
 
