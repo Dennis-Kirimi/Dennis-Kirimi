@@ -41,8 +41,8 @@ Built an automated scraper using BeautifulSoup and Selenium to track and visuali
 
 📢 Let’s Connect!
 
-💼 LinkedIn: linkedin.com/in/dennis-kirimi
-🐦 Twitter/X: @denniskirimi
-📩 Email: denniskirimi@example.com
+💼 LinkedIn:https://www.linkedin.com/in/denniskirimi1999/
+🐦 Twitter/X: https://x.com/kirim1dennis
+📩 Email: kirimidennis03@gmail.com
 
 I’m always open to collaborations, networking, and data-driven discussions. Let’s build, analyze, and innovate together! 🚀
