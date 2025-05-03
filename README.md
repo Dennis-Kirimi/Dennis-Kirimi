@@ -45,4 +45,4 @@ Built an automated scraper using BeautifulSoup and Selenium to track and visuali
 🐦 Twitter/X: https://x.com/kirim1dennis
 📩 Email: kirimidennis03@gmail.com
 
-I’m always open to collaborations, networking, and data-driven discussions. Let’s build, analyze, and innovate together! 🚀
+I’m always open to collaborations, networking, and data discussions. Let’s build, analyze, and innovate together! 🚀
